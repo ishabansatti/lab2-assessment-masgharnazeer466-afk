@@ -2,14 +2,16 @@
 using namespace std;
 
 int getIntValue() {
-    // Declare a variable var_int of type int and set its value to 50.
-    int var_int = 50;
+    // Declare a variable var_int of type int and set its value to 10.
+    int var_int = 10;
     return var_int;
 }
 
 float getFloatValue() {
     // Declare a variable var_float of type float and set its value to 10.75.
     //return var_float;
+    var float =10.75;
+    return float;
 }
 
 char getCharValue() {
